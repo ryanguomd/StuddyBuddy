@@ -1,6 +1,6 @@
 # StudyBuddy
 
-StudySync is a conceptual web application that helps students create study groups, share notes in real-time, and stay organized with group tasks and deadlines. This repository showcases how to manage a product end-to-end: from defining user personas and market research to drafting product requirements and building a minimal working prototype.
+StudyBuddy is a web application that helps students create study groups, share notes in real-time, and stay organized with group tasks and deadlines. 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@ StudySync is a conceptual web application that helps students create study group
 ## Overview
 
 ### Project Rationale
-Collaboration is crucial for effective studying. **StudySync** aims to bring students together in a focused, distraction-free environment to share materials, plan study schedules, and keep track of group progress.
+Collaboration is crucial for effective studying. **StudyBuddy** aims to bring students together in a focused, distraction-free environment to share materials, plan study schedules, and keep track of group progress.
 
 ### Goals & Objectives
 1. **Easy Collaboration**: Provide a simple way for students to share notes, questions, and resources.
@@ -67,5 +67,5 @@ While not production-ready, this prototype demonstrates the initial direction of
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and expand upon it.
+This project is licensed under the [MIT License](LICENSE)
 
