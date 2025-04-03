@@ -1,7 +1,4 @@
-# Study-Buddy
-A web application to enable students to collaborate, share notes, and organize study sessions with each other.
-
-# StudySync
+# StudyBuddy
 
 StudySync is a conceptual web application that helps students create study groups, share notes in real-time, and stay organized with group tasks and deadlines. This repository showcases how to manage a product end-to-end: from defining user personas and market research to drafting product requirements and building a minimal working prototype.
 
