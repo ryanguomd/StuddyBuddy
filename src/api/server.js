@@ -1,4 +1,4 @@
-// A minimal Express server to illustrate basic StudySync API endpoints
+// A minimal Express server to illustrate basic StudyBuddy API endpoints
 const express = require('express');
 const app = express();
 const port = 3001;
@@ -49,5 +49,5 @@ app.get('/api/notes', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`StudySync API server running at http://localhost:${port}`);
+  console.log(`StuddyBuddy API server running at http://localhost:${port}`);
 });

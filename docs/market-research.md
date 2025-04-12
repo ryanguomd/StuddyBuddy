@@ -1,4 +1,4 @@
-# Market Research: StudySync
+# Market Research: StuddyBuddy
 
 ## 1. Competitive Analysis
 1. **Google Drive / Docs**
@@ -16,7 +16,7 @@
 
 ---
 
-## 2. StudySync's Differentiators
+## 2. StuddyBuddy's Differentiators
 1. **Student-Centric Features**: Built with academic workflows in mind (exam reminders, note-sharing).
 2. **Lightweight & Easy to Use**: Minimal setup for busy students; friendly UI for smaller screens.
 3. **Focus on Group Study**: Integration of real-time chat and note collaboration without advanced overhead.

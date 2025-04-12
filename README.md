@@ -52,7 +52,7 @@ While not production-ready, this prototype demonstrates the initial direction of
 | File                               | Description                                                               |
 |------------------------------------|---------------------------------------------------------------------------|
 | `docs/product-requirements.md`     | High-level product requirements & acceptance criteria                     |
-| `docs/market-research.md`          | Overview of the competitive landscape and how StudySync differentiates    |
+| `docs/market-research.md`          | Overview of the competitive landscape and how StuddyBuddy differentiates  |
 | `docs/user-personas.md`            | Persona definitions to guide feature priorities                           |
 | `docs/roadmap.md`                  | Product roadmap with planned features and milestones                      |
 | `prototypes/wireframes/`           | Wireframes illustrating the initial UI concepts                           |

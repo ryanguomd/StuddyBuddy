@@ -1,4 +1,4 @@
-# StudySync: User Personas
+# StuddyBuddy: User Personas
 
 ## Persona 1: "Sophomore Sarah"
 - **Role**: Second-year college student

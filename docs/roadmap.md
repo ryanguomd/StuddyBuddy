@@ -1,4 +1,4 @@
-# StudySync: Product Roadmap
+# StuddyBuddy: Product Roadmap
 
 ## Phase 1: MVP
 - **Features**:

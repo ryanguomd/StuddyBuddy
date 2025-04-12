@@ -1,4 +1,4 @@
-# StudySync: Product Requirements
+# StuddyBuddy: Product Requirements
 
 ## 1. Overview
 StudyBuddy is a collaborative platform for students to create and manage study groups. This document outlines the key features and acceptance criteria of the MVP.
