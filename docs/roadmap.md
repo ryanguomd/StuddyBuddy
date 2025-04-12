@@ -4,7 +4,7 @@
 - **Features**:
   - Basic group creation & membership
   - Shared notes (file uploads, textual notes)
-- **Timeline**: Q1 (4-6 weeks)
+- **Timeline**: Q1 
 - **Goal**: Validate core collaborative concept with real users
 
 ---
@@ -13,7 +13,7 @@
 - **Features**:
   - Task assignment with due dates
   - Task status tracking (in-progress, completed)
-- **Timeline**: Q2 (6-8 weeks)
+- **Timeline**: Q2
 - **Goal**: Increase user engagement through structured group tasks
 
 ---
