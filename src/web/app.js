@@ -1,3 +1,5 @@
+const API_BASE = 'http://localhost:3001';
+
 // Basic frontend logic to demonstrate creating groups and notes
 const groupsListEl = document.getElementById('groupsList');
 const groupForm = document.getElementById('groupForm');
@@ -5,7 +7,7 @@ const noteForm = document.getElementById('noteForm');
 
 // Fetch and render groups
 async function fetchGroups() {
-  const res = await fetch('/api/groups');
+  const res = await fetch(`${API_BASE}/api/groups`);
   const data = await res.json();
   renderGroups(data);
 }
@@ -26,7 +28,7 @@ groupForm.addEventListener('submit', async (e) => {
   const description = document.getElementById('groupDescription').value;
   const isPublic = document.getElementById('groupPublic').checked;
 
-  await fetch('/api/groups', {
+  await fetch(`${API_BASE}/api/groups`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ name, description, isPublic })
@@ -43,7 +45,7 @@ noteForm.addEventListener('submit', async (e) => {
   const title = document.getElementById('noteTitle').value;
   const content = document.getElementById('noteContent').value;
 
-  await fetch('/api/notes', {
+  await fetch(`${API_BASE}/api/groups`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ groupId, title, content })
